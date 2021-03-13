@@ -118,12 +118,6 @@ function App() {
       display: false,
     },
     {
-      id: 20,
-      name: "<meta>",
-      text: "meta",
-      display: false,
-    },
-    {
       id: 21,
       name: "<nav>",
       text: "nav",

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,YAAa,CACb,WAAY,CACZ,WACF","file":"main.0b2e5729.chunk.css","sourcesContent":[".btn-lg {\n  height: 125px;\n  width: 125px;\n  margin: 50px;\n}\n"]}
